@@ -13,3 +13,12 @@ html {
 body {
   font-family: "Roboto", "Arial", sans-serif;
 }
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 5.6rem;
+  padding: 0 1.6rem;
+}
+
+/*where stopped : 17:29 min*/
